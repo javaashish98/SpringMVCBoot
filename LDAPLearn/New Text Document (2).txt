@@ -1,0 +1,44 @@
+											Date: 17/04/2021
+											Tool class by ashish
+											===================
+					Planing----->development---------->Deployment-------------->Maintain
+
+					Available technology
+					1. java is used for large application like enterprise application/business application
+					2. python is used for large and data science appliation/and the machine learning process.       ->AI
+					3. PHP(presonal home page)-> we are using php for small kind of application
+					4. dot net      medium level application
+
+	
+	1.     Multiple customer   -> product based   (nokia mobile,redmi mobile,word office)
+	2.     Client specific->   Project based (bookMyShow) 
+
+
+	=>BA-gather all the requirements from  costumer/market outsource/Clients etc.
+	=>BA will prepare one completed document "EPIC" [FULL AND FINAL DOCUMENT]
+	=>SMALL PARTS TASKS(STORY/bug/Issue etc....)
+	=>Tasks are assigned to developer to do work(sprint plan and execution)
+
+
+	2. Coding and unit testing->
+	             by using maven/gradle gather all the required jar
+		     IDE-Eclipse/STS
+		     Unit testing must be done by the developer 
+	
+	
+	
+	AGILE Process(Role BA)-JIRA
+
+	
+
+
+
+
+
+
+	3. Development Operations (Role#3 DEvOps Team)
+	=>provide setup and configuration for github form versionControlling
+	=>Build our project into .jat/war format usnig bulid tool maven/gradle
+	=>Must configure jenkins for continus bulid+development
+
+Are you there??
