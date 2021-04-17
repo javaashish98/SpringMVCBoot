@@ -21,6 +21,7 @@ import javax.naming.directory.SearchResult;
 public class AppLdap {
 	
 	public void addUser() {
+		System.out.println("This project will provide information to connecto to ldap server");
 		DirContext connection=getConnection();
 		Attributes attributes=new BasicAttributes();
 		Attribute attribute=new BasicAttribute("objectClass");
